@@ -1,0 +1,3 @@
+[submodule "sapphire"]
+	path = sapphire
+	url = https://github.com/silverstripe/sapphire.git
