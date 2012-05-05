@@ -27,3 +27,5 @@ Object::add_extension('SiteConfig', 'SiteConfigExtension');
 
 // log errors and warnings
 //SS_Log::add_writer(new SS_LogEmailWriter('guy.watson@internetrix.com.au,susan.zhang@internetrix.com.au'), SS_Log::WARN, '<=');
+
+//test comment for github mac
